@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Essencial)
+venv/
+.venv/
+env/
+ENV/
+.env/
+
+# Configurações do IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Arquivos de ambiente e chaves secretas
+.env
+.secrets
+
+# Banco de dados local
+banco.db
+*.db
